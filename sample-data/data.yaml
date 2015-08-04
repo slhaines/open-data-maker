@@ -69,6 +69,5 @@ categories:
     source: ALAND_SQMI
     fields: [location, area.land, area.water]
 
-
 files:
    - name: cities100.csv
